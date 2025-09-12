@@ -24,8 +24,8 @@ public class ClockDisplay
      */
     public ClockDisplay()
     {
-        hours = new NumberDisplay(24);
-        minutes = new NumberDisplay(60);
+        hours = new NumberDisplay(12);
+        minutes = new NumberDisplay(59);
         updateDisplay();
     }
 
