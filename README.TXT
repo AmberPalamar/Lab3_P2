@@ -34,3 +34,12 @@ Answers
 26.
 27. The second constructor allows you to choose the time that the clock is set at when created. Difference between the 2 constructors is that the first will automatically start at 00:00 and the second lets you choose the time its set at. 
 28. 
+29. 
+30. 
+31. 
+32.
+33. (8 % 3) = 2 (int)  (-8 % 3) = -2 (int)
+34.  (n % 5) = n (int)
+35.  (n % m) = n (int) 
+36. Screenshot added.
+37. 
